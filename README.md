@@ -7,6 +7,7 @@ WeRateDogs is a Twitter account with the handle, @dog_rates. Dogs are rated and 
 
 In this wrangling task, Jupyter Notebook and Python programming languages was used alongside several libraries including Pandas, Requests, Tweepy, Json, and Numpy among others. Data was gathered from several sources and in different formats. Notably, available archived data ('twitter-archive-enhanced.csv') was mined using Pandas dataframe. Thereafter, dataset containing image predictions – in Tab Separated Values (tsv) format - was mined via a weblink. Since additional data was necessary, Twitter API was used to retrieve relevant data such as the number of likes and retweets, as well as the date the tweet was posted.
 
+This programme is part of Project 2 requiremets to qualify of the prestigious Udacity's Data Analyst Nanodegree!
 
 
 ## Wrangling Methodology
